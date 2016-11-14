@@ -4,6 +4,11 @@
 *.xlsx
 *.Rdata
 *.Rhistory
+*.sav
+*.pdf
+*.zip
+
+
 
 #Rfiles
 *.Rproj
